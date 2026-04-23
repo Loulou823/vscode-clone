@@ -7,6 +7,8 @@
 > [!NOTE]
 > This project is still in development and may not be fully functional.
 
+> [!IMPORTANT]
+> this project is now deprecated. see https://www.github.com/Loulou823/eleclite-ide
 A powerful, IDE clone built with Vue 3, TypeScript, Vite, and Electron. Featuring Monaco Editor, integrated terminal, AI assistance, and localized interface.
 
 ## Screenshots
